@@ -1,0 +1,14 @@
+{
+ :vendor "Frankenburg Softwaretechnik GmbH
+Unter der Frankenburg 20, 31737 Rinteln
+Geschäftsführer Fabian Hager und Witoslaw Koczewski
+Amtsgericht Stadthagen HRB 201547
+Umsatzsteuer-ID DE322317556
+Telefon +49 5751 9934900
+E-Mail mail@frankenburg.software"
+
+ :datenschutzerklaerung-bausteine
+ [:vertragsabwicklung
+  :serverdaten
+  :cookies
+  :kontaktanfragen]}

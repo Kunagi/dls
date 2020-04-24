@@ -1,0 +1,11 @@
+{
+ :http-server/port 23010
+ :http-server/uri "http://localhost:23010"
+
+ :http-server/reload? true
+ :http-server/reload-dirs ["../kunagi-base/src"]
+ :oauth {:google {:enabled? true}}
+
+ :browserapp/config {
+                     :dev-mode? true
+                     :service-worker? false}}

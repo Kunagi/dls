@@ -1,0 +1,21 @@
+{
+  "theme_color" : "#000000",
+  "permissions" : [ ],
+  "prefer_related_applications" : false,
+  "start_url" : "/ui/?utm_source=a2hs",
+  "name" : "Datalog Server",
+  "background_color" : "#E1E2E1",
+  "scope" : "/",
+  "short_name" : "Datalog Server",
+  "icons" : [ {
+    "src" : "/img/app-icon_192.png",
+    "type" : "image/png",
+    "sizes" : "192x192"
+  }, {
+    "src" : "/img/app-icon_512.png",
+    "type" : "image/png",
+    "sizes" : "512x512"
+  } ],
+  "related_applications" : [ ],
+  "display" : "standalone"
+}
